@@ -1,0 +1,25 @@
+# dependencies
+node_modules
+
+# compiled output
+dist
+build
+out
+lib
+
+# logs and data
+logs
+*.log
+*.swp
+*.bak
+*.cache
+
+# IDEs and editors
+.idea
+.vscode
+*.sublime-project
+*.sublime-workspace
+
+# misc
+*.DS_Store
+Thumbs.db
